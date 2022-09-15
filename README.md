@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineet</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 <p> I have strong media and communication professional with a Bachelor of Technology focused in Information Technology from Kalinga Institute of Industrial Technology, Bhubaneswar. I am an experienced developer skilled in C++, Java, Full Stack Development, Machine learning, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetkumarg8&label=Profile%20views&color=0e75b6&style=flat" alt="vineetkumarg8" /> </p>
