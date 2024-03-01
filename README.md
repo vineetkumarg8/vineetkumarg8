@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vineet</h1>
 <h3 align="center">A passionate Full Stack developer and Data Science Enthusiast from India</h3>
-<p> I have strong media and communication professional with a Bachelor of Technology focused in Information Technology from Kalinga Institute of Industrial Technology, Bhubaneswar. I am an experienced developer skilled in C++, Java, Full Stack Development, Machine learning, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.</p>
+<p> I have studied Information Technology from Kalinga Institute of Industrial Technology, Bhubaneswar. I am an experienced developer skilled in Java, Full Stack Development, Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vineetkumarg8&label=Profile%20views&color=0e75b6&style=flat" alt="vineetkumarg8" /> </p>
 
@@ -10,7 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vineet-kumar-060085216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vineet-kumar-060085216" height="30" width="40" /></a>
+<a href="linkedin.com/in/vineet-kumar-ch" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vineet-kumar-060085216" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
