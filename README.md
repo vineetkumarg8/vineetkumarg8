@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vineet</h1>
-<h3 align="center">A passionate Full Stack developer and Frontend Enthusiast from India</h3>
-<p> I have studied Information Technology from Kalinga Institute of Industrial Technology, Bhubaneswar. I am an experienced developer skilled in Full Stack Development, Reactj s,Node js,Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building many communities from scratch.</p>
+<h3 align="center">A passionate Full Stack developer from India</h3>
+<p> I have studied Information Technology from Kalinga Institute of Industrial Technology, Bhubaneswar. I am an experienced developer skilled in,Spring boot, Java, Reactj s,Node js,Javascript and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of organizational works in college related to clubs, hackathons, fests and workshops and helped in building communities from scratch.</p>
 
 
 - 📫 How to reach me **vineetkumar12392@gmail.com**
