@@ -4,8 +4,7 @@
 
 
 - 📫 How to reach me **vineetkumar12392@gmail.com**
-- Portfolio website **https://portfolio-sand-iota-62.vercel.app**
-
+- Portfolio website **https://portfolio-vineetkumarg8s-projects.vercel.app/**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/vineet-kumar-ch/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vineet-kumar-060085216" height="30" width="40" /></a>
